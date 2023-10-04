@@ -4,6 +4,9 @@ Cyber Security Portfolio
 
 Hello and welcome to my cyber security portfolio.  Within it you will find several things including, but not limited to:
 
+Current Projects Available
+<hr>
+Future Projects to Be Posted
 1. Professional Statment
 2. A Demo Security Audit
 3. Linux Musings
