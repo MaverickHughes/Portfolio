@@ -5,7 +5,7 @@ Hello and welcome to my cyber security portfolio.  Within it you will find sever
 </br>
 Current Projects Available </br>
 1. [Professional Statment](https://github.com/MaverickHughes/Portfolio/blob/main/Professional-Statement)</br>
-2. [A Demo Security Audit](Botium Toys Security Audit.docx)</br>
+2. A Demo Security Audit([Botium Toys Security Audit.docx](https://github.com/MaverickHughes/Portfolio/blob/fd378bd35a3b1cfde3eb6a2fe9f07aa2d665ea2c/Botium%20Toys%20Security%20Audit.docx))</br>
 <hr></br>
 Future Projects to Be Posted </br>
 3. Linux Musings</br>
